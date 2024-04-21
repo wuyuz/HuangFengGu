@@ -1,0 +1,10 @@
+【ERROR】2024-04-21 15:53:08,157 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
+【ERROR】2024-04-21 15:53:12,466 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
+【ERROR】2024-04-21 15:53:50,995 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
+【INFO】2024-04-21 15:53:51,000 - init.py - 【超级管理员初始密码】MmQwoi4RCmuJeVKx 请登录系统后在设定中修改。 注：该密码只会显示一次，请注意保存。
+【ERROR】2024-04-21 15:56:28,325 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
+【ERROR】2024-04-21 16:14:33,170 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
+【INFO】2024-04-21 16:15:35,886 - login.py - 用户 admin 登录成功！
+【INFO】2024-04-21 16:16:43,286 - login.py - 用户 admin 登录成功！
+【ERROR】2024-04-21 16:29:12,132 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
+【INFO】2024-04-21 16:35:34,958 - login.py - 用户 admin 登录成功！
