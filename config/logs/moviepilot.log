@@ -8,3 +8,4 @@
 【INFO】2024-04-21 16:16:43,286 - login.py - 用户 admin 登录成功！
 【ERROR】2024-04-21 16:29:12,132 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.
 【INFO】2024-04-21 16:35:34,958 - login.py - 用户 admin 登录成功！
+【ERROR】2024-04-21 21:55:07,380 - init.py - 数据库更新失败：Path doesn't exist: '/home/w/桌面/workspace/HuangFengGu/database'.  Please use the 'init' command to create a new scripts folder.

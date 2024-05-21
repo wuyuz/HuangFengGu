@@ -46,6 +46,7 @@ def create_user(
     user.create(db)
     return schemas.Response(success=True)
 
+
 @router.put("/", summary="更新用户", response_model=schemas.Response)
 def update_user(
         *,
@@ -80,6 +81,7 @@ def read_current_user(
     当前登录用户信息
     """
     return current_user
+
 
 @router.post("/avatar/{user_id}", summary="上传用户头像", response_model=schemas.Response)
 async def upload_avatar(user_id: int, db: Session = Depends(get_db),

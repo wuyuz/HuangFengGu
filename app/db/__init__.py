@@ -1,6 +1,5 @@
 from typing import Any, Self, List
 from typing import Tuple, Optional, Generator
-
 from sqlalchemy import create_engine, QueuePool
 from sqlalchemy import inspect
 from sqlalchemy.orm import declared_attr
@@ -76,7 +75,6 @@ def db_update(func):
     """
     数据库更新类操作装饰器，第一个参数必须是数据库会话或存在db参数
     """
-
     def wrapper(*args, **kwargs):
         # 是否关闭数据库会话
         _close_db = False
@@ -112,7 +110,6 @@ def db_query(func):
     数据库查询操作装饰器，第一个参数必须是数据库会话或存在db参数
     注意：db.query列表数据时，需要转换为list返回
     """
-
     def wrapper(*args, **kwargs):
         # 是否关闭数据库会话
         _close_db = False
